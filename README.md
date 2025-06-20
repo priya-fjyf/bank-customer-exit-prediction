@@ -18,8 +18,8 @@ The dataset includes a variety of customer-related attributes:
 - ⌛ Tenure (Years with the bank)  
 - 📊 Estimated Salary  
 - 🔁 IsActiveMember  
-- 🎯 **Target**: Points Earned  
-  - Categories: `Low`, `Medium`, `High`
+- 🎯 **Target**: Exited  
+  - Categories: 0,1
 
 ## 🤖 ML Algorithms Used
 
@@ -27,7 +27,6 @@ The dataset includes a variety of customer-related attributes:
 - 🌳 Decision Tree Classifier  
 - 🌲 Random Forest Classifier  
 - 🔍 Support Vector Machine (SVM)  
-- 💡 K-Nearest Neighbors (KNN)  
 - 🔁 Naive Bayes (for comparison)
 
 ## 🛠️ Tools & Libraries
