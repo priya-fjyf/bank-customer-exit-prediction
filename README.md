@@ -1,4 +1,4 @@
-# 🎯 Customer Points Classification using ML 🧮
+# 🎯 Customer Exited Classification using ML 🧮
 
 ## 📌 Overview
 
@@ -25,8 +25,7 @@ The dataset includes a variety of customer-related attributes:
 
 - 📈 Logistic Regression  
 - 🌳 Decision Tree Classifier  
-- 🌲 Random Forest Classifier  
-- 🔍 Support Vector Machine (SVM)  
+- 🌲 Random Forest Classifier    
 - 🔁 Naive Bayes (for comparison)
 
 ## 🛠️ Tools & Libraries
@@ -52,8 +51,12 @@ The dataset includes a variety of customer-related attributes:
 - 📊 Cross-validation (if used)
 
 ## 🎯 Project Objective
-
-To build a predictive system that classifies customers into **Points Earned** categories, enabling targeted offers, personalized rewards, and customer segmentation for loyalty programs.
+## Accuracy Score
+### 1. RandomForestClassifier(99%)
+### 2. DecisionTreeClassifier(99%)
+### 3. LogisticRegression(99%)
+### 4. NaiveBayes(99%)
+To build a predictive system that classifies customers into **Exited** categories, enabling targeted offers, personalized rewards, and customer segmentation for loyalty programs.
 
 ---
 
